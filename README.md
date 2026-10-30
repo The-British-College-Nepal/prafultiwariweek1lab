@@ -1,6 +1,6 @@
 # Week 1 · Day 2: Docker ML Lab Verification
 **Student Name
-:** [Your Full Name]
+:** [Praful Tiwari]
 **Student ID:** 11655
 **Docker Hub Repository:** https://hub.docker.com/r/prafultiwari/my-first-ml
 ## 1. Local Training Output
